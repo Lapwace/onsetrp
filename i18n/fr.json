@@ -362,5 +362,18 @@
     "drugdealer_dealmsg": "Écoute mon gars, j'peux te donner",
     "drugdealer_for": "{1}$ pour {2} de {3}",
     "drugdealer_yousolddrugs": "Vous avez vendu pour {1}$ de drogue avec succès",
-    "inventory_notenoughspace": "Vous n'avez pas assez de place pour ça"
+    "inventory_notenoughspace": "Vous n'avez pas assez de place pour ça",
+	"taxiboss_name": "Taxi Boss",
+	"taxiboss_needjob": "Hey salut, tu a besoin d'un travail ?",
+	"taxiboss_needdriverlicense": "Bonjour, si tu veux devenir chauffeur de taxi tu a besoin du permis de conduire .",
+	"taxiboss_havejob": "Tu a déjà un travaille, quitte le et reviens me voir .",
+	"taxiboss_bye": "A la prochaine",
+	"taxiboss_yes1": "Ouais pourquoi pas",
+	"taxiboss_whatdouwant": "Salut, que veux tu ?",
+	"taxiboss_spawn": "Faire spawn un taxi",
+	"taxiboss_leave": "Quitter le job",
+	"no_place": "Il n'y a pas de place pour faire apparaitre votre véhicule .",
+	"new_taxi": "Vous êtes devenu chauffeur de taxi .",
+	"spawn_taxi": "Votre véhicule est apparu .",
+	"leave_taxi": "Vous n'êtes plus chauffeur de taxi ."
 }
