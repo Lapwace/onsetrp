@@ -75,7 +75,7 @@
         "licenses/client.lua",
         "transport/c_busstop.lua",
         "vehicle_radio/client.lua",
-		    "taxi/c_npc.lua",
+	"taxi/c_npc.lua",
         "hud/pinmap/client/main.lua",
         "vehicle/ragP/client.lua"
     ],
